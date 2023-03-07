@@ -46,11 +46,10 @@ npm run dev
 
 ## **Contributors**
 
-- [Manuel Noltorp](https://github.com/ManneWas) - Teacher (Product Owner) 
+- [Manuel Noltorp](https://github.com/ManneWas) - Teacher (Product Owner)
+- [Johan Möller](https://github.com/jfMoller) - Scrum Master (Sprint 1), Developer
 - [Linus Rengbrandt](https://github.com/RogeSocial) - Scrum Master (Sprint 2), Developer
 - [Simon Nilsson Villoresi](https://github.com/SimonLeBuono123) - Developer
 - [Admir Agic](https://github.com/rimdagic) - Developer
-- [Johan Möller](https://github.com/jfMoller) - Scrum Master (Sprint 1), Developer
 - [Rufat Jafarli](https://github.com/Rufat-J) - Developer
 - [Cheng Wu](https://github.com/thalassa111) - Developer
-- [Kasper Holmgren](https://github.com/KasperHolmgren) - Developer
